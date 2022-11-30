@@ -11,27 +11,21 @@ import time
 import sys
 from time import sleep
 speed = 0.015
-def typeP(words):
+def print(words):
   for char in words:
       sleep(speed)
       sys.stdout.write(char)
       sys.stdout.flush()
       
-typeP("    BMI")
-typeP("    TEST")
-speed = 0.05
-def typeP(words):
-  for char in words:
-      sleep(speed)
-      sys.stdout.write(char)
-      sys.stdout.flush()
-typeP("\033[1;36mWelcome to BMI test \n\n")
+print("    BMI")
+print("    TEST")
+print("\033[1;36mWelcome to BMI test \n\n")
 w="BMI stands for Body Metabolic Rate.\n It is necessary for check how healthy you are. It calculates body fat."
-typeP(w)
+print(w)
 print("\n")
-typeP("Ok, Lets get started")
+print("Ok, Lets get started")
 print("\n")
-typeP("To calculate your BMI we just need your height and weight\n\n")
+print("To calculate your BMI we just need your height and weight\n\n")
 print("\033[1;34m INFO\n")
 a=input("Name : ")
 a=a.capitalize()
@@ -65,35 +59,26 @@ elif bmi>=34.91 and bmi<=39.9 :
 elif bmi>=39.91:
     m="YOU ARE IN EXTREME DANGER\n***GO TO THE DOCTOR AS SOON AS POSSIBLE***"
 print("\n") 
-typeP("\033[1;03mLoading . . . . .")
+print("\033[1;03mLoading . . . . .")
 sleep(1)
 print("\n")
-typeP(a.upper()+"'s RESULT = "+f"BMI is {bmi}\n"+"\033[1;32mSOLUTION = "+m)
+print(a.upper()+"'s RESULT = "+f"BMI is {bmi}\n"+"\033[1;32mSOLUTION = "+m)
 print("\n")
 w="\033[1;31m*** Make sure your input matches following"
 m=" instructions or you won't get the correct answer***"
-typeP(w+m)
+print(w+m)
 print("\n")
 w="\033[1;33m"+a+"\033[1;00m Thank you for using my Program      "
-typeP(w)
+print(w)
 print('\n')
-typeP('              Developed by ')
+print('              Developed by ')
 print("\n")
-speed = 0.01
-def typeP(words):
-  for char in words:
-      sleep(speed)
-      sys.stdout.write(char)
-      sys.stdout.flush()
-
 result = "Mahmud"
-typeP(result) 
-
-
+print(result) 
 print('\n')
 print('\n')
 w="E N D"
-typeP(w)
+print(w)
         </py-script>
         <footer>
             <a href="index">Return Home</a>
