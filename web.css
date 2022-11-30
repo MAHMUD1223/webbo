@@ -1,8 +1,22 @@
 h1{
     size: 50px;
     font-family: cursive;
+    color: lightgoldenrodyellow;
 }
 body{
     width: auto;
     height: auto;
 }
+@media screen and (max-device-width: 640px) {
+
+    .gfg-div {
+  
+      width: 400px;
+  
+      height: 200px;
+  
+      background-color: chartreuse;
+  
+      color: black;
+  
+    }
