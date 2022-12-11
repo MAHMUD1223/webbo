@@ -9,7 +9,7 @@ h1{
 }
 body{
     background-image: url("https://thumbs.dreamstime.com/b/digital-globe-binary-world-d-render-46263744.jpg");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-position: center;
     background-attachment: scroll,local;
 }
