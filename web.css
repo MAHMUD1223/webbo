@@ -7,3 +7,9 @@ h1{
     margin: 5px;
     border-radius: 3px;
 }
+body{
+    background-image: url("https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/stock-assets/getty/image/others/fb/9c/fb9c9def-0e95-404d-acd2bf63c7bfed3f.component.xs-retina.ts=1633548067703.jpg/content/adobe-cms/us/en/topics/hbase/jcr:content/root/leadspace");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll,local;
+}
