@@ -29,10 +29,12 @@ footer{
     border-radius: 20px;
 }
 a{
-    text-decoration: none;
     color: white;
 }
 .btn-container{
     background-color: rgba(0,0,0,0.3);
     display: flex;
+    justify-content: center;
+    padding: 1rem;
+    margin: auto 30%;
 }
