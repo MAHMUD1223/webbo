@@ -28,3 +28,11 @@ footer{
     margin: auto 10%;
     border-radius: 20px;
 }
+a{
+    text-decoration: none;
+    color: white;
+}
+.btn-container{
+    background-color: rgba(0,0,0,0.3);
+    display: flex;
+}
