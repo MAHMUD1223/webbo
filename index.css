@@ -7,10 +7,10 @@ body{
     justify-content: center;
     height: 5em;
     width: 5em;
-    border-top-right-radius: 5px;
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
-    border-bottom-right-radius: 5px;
+    border-top-right-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-right-radius: 25px;
 }
 .headline{
     text-align: center;
