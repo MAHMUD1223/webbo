@@ -20,7 +20,7 @@ body{
 }
 body{
     background-image: url("https://static.vecteezy.com/system/resources/thumbnails/007/523/401/small/circuit-board-technology-background-purple-and-blue-light-banner-electronic-system-concept-vector.jpg");
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-attachment: scroll,local;
     background-size: cover;
 }
