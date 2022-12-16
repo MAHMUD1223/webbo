@@ -2,8 +2,11 @@ body{
     color: white;
 }
 #logo{
+    position: absolute;
     display: flex;
     justify-content: center;
+    height: 5em;
+    width: 5em;
 }
 .headline{
     text-align: center;
