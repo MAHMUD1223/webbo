@@ -1,6 +1,10 @@
 body{
     color: white;
 }
+#logo{
+    display: flex;
+    justify-content: center;
+}
 .headline{
     text-align: center;
     font-family: cursive;
