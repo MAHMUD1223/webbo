@@ -24,12 +24,12 @@ body{
     background-attachment: scroll,local;
     background-size: cover;
 }
-footer{
+/*footer{
     padding: 1.25em;
     border: 0.3125em;
     margin: 2.5em;
     background: black;
-}
+}*/
 .identity{
     text-align: center;
     background-color: rgba(0,0,0,0.3);
