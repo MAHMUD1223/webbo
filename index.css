@@ -25,7 +25,8 @@ body{
     background-size: cover;
 }
 footer{
-    margin: 20px;
+    margin: 20px auto;
+    padding: 5px;
     border-radius: 30px;
     background: lightsteelblue;
 }
