@@ -25,10 +25,7 @@ body{
     background-size: cover;
 }
 footer{
-    /*padding: 1.25em;
-    border: 0.3125em;
-    margin: 2.5em;*/
-    background: black;
+    background: lightsteelblue;
 }
 .identity{
     text-align: center;
