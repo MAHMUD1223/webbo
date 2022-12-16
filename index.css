@@ -6,6 +6,7 @@ body{
     font-family: cursive;
 }
 #bookcard{
+    background-color: rgba(0,0,0,0.3);
     padding: 0.3125em;
     margin: 0.3125em;
     border-radius: 0.1875em;
