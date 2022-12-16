@@ -25,6 +25,7 @@ body{
     background-size: cover;
 }
 footer{
+    margin: 10px;
     background: lightsteelblue;
 }
 .identity{
