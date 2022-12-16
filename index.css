@@ -10,6 +10,8 @@ body{
     border-top-right-radius: 25px;
     border-bottom-right-radius: 25px;
     border-bottom-right-radius: 25px;
+    margin: auto 30%;
+    padding: 2em 2em;
 }
 .headline{
     text-align: center;
