@@ -1,5 +1,5 @@
-body{
-    color: white;
+*{
+    backdrop-filter: blur(3px);
 }
 #logo{
     height: 5em;
@@ -19,10 +19,11 @@ body{
     border-radius: 0.1875em;
 }
 body{
-    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/007/523/401/small/circuit-board-technology-background-purple-and-blue-light-banner-electronic-system-concept-vector.jpg");
+    color: white;
+    background-image: url("https://as2.ftcdn.net/v2/jpg/05/33/12/11/1000_F_533121127_kKW6BJyjQCajytQuQIByTZheE5YHF2Bl.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll,local;
-    background-size: 100%;
+    background-size: cover;
 }
 footer{
     margin: 20px auto;
