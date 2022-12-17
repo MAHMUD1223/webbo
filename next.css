@@ -5,7 +5,7 @@ h1{
 }
 body{
     background-image: url("https://cdn.dribbble.com/users/120207/screenshots/5326041/media/3f7fa970dc2179910c31da0b898eb8b7.png");
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-attachment: scroll,local;
-    background-size: 100%;
+    background-size: cover;
 }
