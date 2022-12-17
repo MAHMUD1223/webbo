@@ -1,11 +1,15 @@
 *{
     backdrop-filter: blur(3px);
+    margin: auto;
+    padding: auto;
+    border: auto;
 }
 #logo{
     height: 5em;
     width: 5em;
     border-radius: 50%;
     margin: auto 45%;
+    padding: 3px;
 }
 .headline{
     text-align: center;
