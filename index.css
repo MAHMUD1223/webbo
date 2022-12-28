@@ -1,5 +1,4 @@
 *{
-    backdrop-filter: blur(3px);
     margin: auto;
     padding: auto;
     border: auto;
@@ -52,6 +51,5 @@ a{
     margin: auto 30%;
 }
 .cn_chat{
-    display: flex;
     position: fixed;
 }
