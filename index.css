@@ -2,10 +2,13 @@
     fsty: fade 1s ease-in 1s;
 }
 *{
-    margin: auto;
-    padding: auto;
-    border: auto;
+    all: unset;
+    margin: 0;
+    padding: 0;
+    border: 0;
     animation: fade 1s ease-in 1s;
+    background-size: cover;
+    size: 100%;
 }
 #logo{
     height: 5em;
