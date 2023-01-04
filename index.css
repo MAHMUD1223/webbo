@@ -66,9 +66,8 @@ a{
 .btn-container{
     background-color: rgba(0,0,0,0.3);
     display: flex;
-    gap: 5px;
-    /*justify-content: center;
-    padding: 1rem;*/
+    justify-content: center;
+    padding: 1rem;
     animation: var(fsty);
 }
 .cn_chat{
