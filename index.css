@@ -36,6 +36,7 @@
     padding: 0.3125em;
     margin: 0.3125em;
     border-radius: 0.1875em;
+    background-color: lightsteelblue;
 }
 body{
     color: white;
@@ -43,12 +44,6 @@ body{
     background-repeat: no-repeat;
     background-attachment: scroll,local;
     background-size: cover;
-}
-footer{
-    margin: 20px auto;
-    padding: 5px;
-    border-radius: 30px;
-    background: lightsteelblue;
 }
 .identity{
     text-align: center;
