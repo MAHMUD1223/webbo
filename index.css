@@ -82,4 +82,7 @@ a{
     .headline{
         font-size: larger;
     }
+    #logo{
+        margin: auto;
+    }
 }
