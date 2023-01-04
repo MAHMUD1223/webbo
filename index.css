@@ -20,7 +20,7 @@
 .headline{
     text-align: center;
     font-size: 5em;
-    background: linear-gradient(to left, #cad925, #ab0a30, rgb(199, 24, 146), #cad925, #14c443);
+    background: linear-gradient(to right, #cad925, #ab0a30, rgb(199, 24, 146), #cad925, #14c443);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: var(fsty);
