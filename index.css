@@ -13,7 +13,7 @@
     border-radius: 50%;
     margin: auto 50%;
     padding:7px;
-    animation: fade 0.8s ease-in 1s ;
+    animation: var(fsty) ;
 }
 .headline{
     text-align: center;
@@ -21,7 +21,7 @@
     background: linear-gradient(to right, rgb(67, 124, 205), rgb(69, 214, 202));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    animation: fade 2s ease-in 1s /*iteration-count direction fill-mode*/;
+    animation: var(fsty);
     pointer-events: none;
 }
 @keyframes fade {
