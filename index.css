@@ -2,12 +2,13 @@
     margin: auto;
     padding: auto;
     border: auto;
+    animation: fade 1s ease-in 1s;
 }
 #logo{
     height: 5em;
     width: 5em;
     border-radius: 50%;
-    margin: auto 45%;
+    margin: auto 50%;
     padding:7px;
     animation: fade 0.8s ease-in 1s ;
 }
