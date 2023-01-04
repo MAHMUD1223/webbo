@@ -36,7 +36,7 @@
     padding: 0.3125em;
     margin: 0.3125em;
     border-radius: 0.1875em;
-    background-color: lightsteelblue;
+    background: linear-gradient(to right, rgb(11, 14, 163), rgb(11, 165, 163));
 }
 body{
     color: white;
