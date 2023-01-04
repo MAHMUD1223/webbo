@@ -76,7 +76,7 @@ a{
 @media (max-width:500px){
     *{
         font-size: medium;
-        margin: auto 50%;
+        margin: auto auto;
     }
     .headline{
         font-size: larger;
