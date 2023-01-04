@@ -17,7 +17,7 @@
     background: linear-gradient(to right, rgb(67, 124, 205), rgb(69, 214, 202));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    animation: fade 1.5s ease-in 1s /*iteration-count direction fill-mode*/;
+    animation: fade 2s ease-in 1s /*iteration-count direction fill-mode*/;
     pointer-events: none;
 }
 @keyframes fade {
