@@ -1,3 +1,6 @@
+:root{
+    fsty: fade 1s ease-in 1s;
+}
 *{
     margin: auto;
     padding: auto;
@@ -38,6 +41,7 @@
     margin: 0.3125em;
     border-radius: 0.1875em;
     background: linear-gradient(to right, rgb(11, 14, 163), rgb(11, 165, 163));
+    animation: var(fsty);
 }
 body{
     color: white;
@@ -51,9 +55,11 @@ body{
     background-color: rgba(0,0,0,0.3);
     margin: auto 10%;
     border-radius: 20px;
+    animation: var(fsty);
 }
 a{
     color: cyan;
+    animation: var(fsty);
 }
 .btn-container{
     background-color: rgba(0,0,0,0.3);
@@ -61,9 +67,11 @@ a{
     justify-content: center;
     padding: 1rem;
     margin: auto 30%;
+    animation: var(fsty);
 }
 .cn_chat{
     position: fixed;
+    animation: var(fsty);
 }
 @media (max-width:500px){
     *{
