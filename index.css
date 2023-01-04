@@ -4,7 +4,7 @@
 *{
     margin: auto auto;
     padding: auto;
-    border: auto;
+    border: 100%;
     animation: fade 1s ease-in 1s;
     background-size: cover;
     size: 100%;
