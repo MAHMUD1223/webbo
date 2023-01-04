@@ -2,9 +2,9 @@
     fsty: fade 1s ease-in 1s;
 }
 *{
-    margin: 0;
-    padding: 0;
-    border: 0;
+    margin: auto auto;
+    padding: auto;
+    border: auto;
     animation: fade 1s ease-in 1s;
     background-size: cover;
     size: 100%;
