@@ -77,9 +77,6 @@ a{
     *{
         font-size: medium;
         display: flex;
-        justify-content: center;
-        justify-self: center;
-        justify-items: center;
     }
     .headline{
         font-size: larger;
