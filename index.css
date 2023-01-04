@@ -15,9 +15,6 @@
     padding:7px;
     animation: var(fsty) ;
 }
-.head-container{
-    background-color: rgba(0,0,0,0.4);
-}
 .headline{
     text-align: center;
     font-size: 5em;
