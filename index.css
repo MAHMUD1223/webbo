@@ -12,8 +12,21 @@
 }
 .headline{
     text-align: center;
-    font-family: cursive;
     font-size: 5em;
+    background: linear-gradient(to right, rgb(67, 124, 205), rgb(69, 214, 202));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: fade 1s ease-in 1s /*iteration-count direction fill-mode*/;
+    pointer-events: none;
+    opacity: 0;
+}
+@keyframes fade {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
 }
 #bookcard{
     background-color: rgba(0,0,0,0.3);
