@@ -21,7 +21,7 @@
 .headline{
     text-align: center;
     font-size: 5em;
-    background: linear-gradient(to right, rgb(67, 124, 205), rgb(69, 214, 202));
+    background: linear-gradient(to right, rgb(29, 106, 214), rgb(24, 199, 184));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: var(fsty);
