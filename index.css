@@ -76,6 +76,10 @@ a{
 @media (max-width:500px){
     *{
         font-size: medium;
+        display: flex;
+        justify-content: center;
+        justify-self: center;
+        justify-items: center;
     }
     .headline{
         font-size: larger;
