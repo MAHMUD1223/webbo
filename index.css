@@ -9,6 +9,7 @@
     border-radius: 50%;
     margin: auto 45%;
     padding:7px;
+    animation: fade 0.8s step-end 1s ;
 }
 .headline{
     text-align: center;
