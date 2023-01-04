@@ -17,8 +17,8 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: fade 1s ease-in 1s /*iteration-count direction fill-mode*/;
-    pointer-events: none;
-    opacity: 0;
+    /*pointer-events: none;
+    opacity: 0;*/
 }
 @keyframes fade {
     0%{
