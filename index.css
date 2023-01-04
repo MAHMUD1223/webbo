@@ -65,7 +65,7 @@ a{
     position: fixed;
 }
 @media (max-width:500px){
-    .headline{
+    *{
         font-size: medium;
     }
 }
