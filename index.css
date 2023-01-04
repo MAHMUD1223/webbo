@@ -49,7 +49,7 @@ body{
     background-repeat: no-repeat;
     background-attachment: scroll,local;
     background-size: cover;
-    opacity: 0.5;
+    opacity: 2;
 }
 .identity{
     text-align: center;
