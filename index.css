@@ -2,16 +2,15 @@
     fsty: fade 1s ease-in 1s;
 }
 *{
-    margin: auto auto;
-    padding: auto;
-    border: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
     animation: fade 1s ease-in 1s;
-    background-size: cover;
     size: 100%;
 }
 #logo{
-    height: 5em;
-    width: 4em;
+    height: 10em;
+    width: 8em;
     border-radius: 50%;
     margin: auto 50%;
     padding:7px;
@@ -69,6 +68,7 @@ a{
     justify-content: center;
     padding: 1rem;
     animation: var(fsty);
+    gap: 0.5em;
 }
 .cn_chat{
     position: fixed;
@@ -84,5 +84,7 @@ a{
     }
     #logo{
         margin: auto;
+        height: 5px;
+        width: 4px;
     }
 }
