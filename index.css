@@ -32,9 +32,9 @@
     padding: 1em;
     background: linear-gradient(to right, purple, pink, cyan);
     margin-bottom: 1em;
-    padding-bottom: 3.5em;
+    padding-bottom: 7em;
     text-align: center;
-    clip-path: polygon(50% 0%, 100% 65%, 50% 100%, 0 65%, 0 0);
+    clip-path: polygon(50% 0%, 100% 0%, 100% 65%, 50% 100%, 0 65%, 0 0);
 }
 .headline{
     text-align: center;
